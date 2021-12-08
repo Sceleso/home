@@ -36,7 +36,7 @@
     font-family: 'Readex Pro', sans-serif;
 }
 #main{
-    background-color:black;
+    position:absolute;
     font-family: 'Lobster', cursive;
     font-size:50px;
     padding-left:1200px;
