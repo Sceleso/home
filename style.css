@@ -1,52 +1,43 @@
-#Sceleso{
-    margin-top:25px;
+#title{
+    font-size:50px;
     margin-left:40px;
-    border-color:transparent;
-    background-color:transparent;
-    font-size:40px;
+    margin-top:40px;
+    border-color: transparent;
+    background-color: transparent;
     font-family: 'Readex Pro', sans-serif;
 }
-#button {
-    position:absolute;
-    margin-top:35px;
-    margin-left:1400px;
-    border-color:transparent;
-    background-color:transparent;
-    width:200px;
-    height:40px;
-    font-family: 'Readex Pro', sans-serif;
-    font-size:25px;
-}
-#button2{
-    position:absolute;
-    margin-top:35px;
-    margin-left:1000px;
-    border-color:transparent;
-    background-color:transparent;
-    width:100px;
-    height:40px;
-    font-family: 'Readex Pro', sans-serif;
-    font-size:25px;
-}
-#button3{
-    border-color:transparent;
-    background-color:transparent;
-    margin-left:600px;
-    font-size:25px;
+#about-us{
+    border-color: transparent;
+    background-color: transparent;
+    margin-left:750px;
+    font-size:30px;
     font-family: 'Readex Pro', sans-serif;
 }
-#main{
-    position:absolute;
-    translate: translate(-50%, -50%);
-    font-family: 'Lobster', cursive;
-    font-size:50px;
-    padding-left:1200px;
-    padding-top:200px;
-    padding-bottom:200px;
+#contactanos{
+    border-color: transparent;
+    background-color: transparent;
+    margin-left:150px;
+    font-size:30px;
+    font-family: 'Readex Pro', sans-serif;
 }
-.texto{
-    font-family: 'Patua One', cursive;
-    font-size:50px;
-    margin-right:400px;
-    margin-left:30px;
+#services{
+    border-color: transparent;
+    background-color: transparent;
+    margin-lefT:150px;
+    font-size:30px;
+    font-family: 'Readex Pro', sans-serif;
+}
+#playa{
+    width: 1880px;
+    position: relative;
+    margin-top:20px;
+}
+#h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family:"lobster";
+    font-size:70px;
+    margin-top:200px;
 }
