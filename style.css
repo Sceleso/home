@@ -1,43 +1,70 @@
-#title{
-    font-size:50px;
-    margin-left:40px;
-    margin-top:40px;
-    border-color: transparent;
-    background-color: transparent;
-    font-family: 'Readex Pro', sans-serif;
+@media screen and (max-width:1920px) {
+    #title{
+        font-size:50px;
+        margin-left:40px;
+        margin-top:40px;
+        border-color: transparent;
+        background-color: transparent;
+        font-family: 'Readex Pro', sans-serif;
+    }
+    #about-us{
+        border-color: transparent;
+        background-color: transparent;
+        margin-left:750px;
+        font-size:30px;
+        font-family: 'Readex Pro', sans-serif;
+    }
+    #contactanos{
+        border-color: transparent;
+        background-color: transparent;
+        margin-left:150px;
+        font-size:30px;
+        font-family: 'Readex Pro', sans-serif;
+    }
+    #services{
+        border-color: transparent;
+        background-color: transparent;
+        margin-lefT:150px;
+        font-size:30px;
+        font-family: 'Readex Pro', sans-serif;
+    }
+    #playa{
+        width: 100%;
+        position: relative;
+        margin-top:20px;
+    }
+    #h1{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-family:"lobster";
+        font-size:70px;
+        margin-top:200px;
+    }    
 }
-#about-us{
-    border-color: transparent;
-    background-color: transparent;
-    margin-left:750px;
-    font-size:30px;
-    font-family: 'Readex Pro', sans-serif;
-}
-#contactanos{
-    border-color: transparent;
-    background-color: transparent;
-    margin-left:150px;
-    font-size:30px;
-    font-family: 'Readex Pro', sans-serif;
-}
-#services{
-    border-color: transparent;
-    background-color: transparent;
-    margin-lefT:150px;
-    font-size:30px;
-    font-family: 'Readex Pro', sans-serif;
-}
-#playa{
-    width: 1880px;
-    position: relative;
-    margin-top:20px;
-}
-#h1{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-family:"lobster";
-    font-size:70px;
-    margin-top:200px;
+@media screen and (max-width: 1024px){
+    #title{
+        font-size:50px;
+        margin-left:40px;
+        margin-top:40px;
+        border-color: transparent;
+        background-color: transparent;
+        font-family: 'Readex Pro', sans-serif;
+    }
+    #about-us{
+
+    }
+    #contactanos{
+
+    }
+    #services{
+
+    }
+    #playa{
+        width:100%;
+    }
+    #h1{
+
+    }
 }
