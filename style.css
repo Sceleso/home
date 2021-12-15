@@ -80,7 +80,7 @@
         position: absolute;
         top: 50%;
         left: 50%;
-        transform: translate(-50%, -500%);
+        transform: translate(-50%, -200%);
         font-family:"lobster";
         font-size:40px;
         margin-top:200px;
@@ -126,6 +126,50 @@
         transform: translate(-50%, -350%);
         font-family:"lobster";
         font-size:35px;
+        margin-top:200px;
+    }
+}
+
+@media screen and (max-width:320){
+    #title{
+        font-size:10px;
+        margin-left:5px;
+        margin-top:5px;
+        border-color: transparent;
+        background-color: transparent;
+        font-family: 'Readex Pro', sans-serif;
+    }
+    #about-us{
+        border-color: transparent;
+        background-color: transparent;
+        margin-left:10px;
+        font-size:15px;
+        font-family: 'Readex Pro', sans-serif;
+    }
+    #contactanos{
+        border-color: transparent;
+        background-color: transparent;
+        margin-left:80px;
+        font-size:15px;
+        font-family: 'Readex Pro', sans-serif;
+    }
+    #services{
+        border-color: transparent;
+        background-color: transparent;
+        margin-lefT:80px;
+        font-size:15px;
+        font-family: 'Readex Pro', sans-serif;
+    }
+    #playa{
+        width:100%;
+    }
+    #h1{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -10%);
+        font-family:"lobster";
+        font-size:10px;
         margin-top:200px;
     }
 }
